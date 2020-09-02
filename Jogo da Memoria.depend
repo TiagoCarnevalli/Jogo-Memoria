@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1523566621 source:c:\users\tiago carnevalli\documents\programação 2 - daniele\jogo da memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1523111462 source:c:\users\tiago carnevalli\documents\programacao 2 - daniele\jogo da memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1523290786 source:c:\users\tiago carnevalli\documents\programacao2_daniele\jogo da memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
+1523567001 source:c:\users\tiago carnevalli\documents\fatec\programação 2 - daniele\jogo da memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+
